@@ -48,17 +48,6 @@ The EDA included:
 *   **Variable Correlations:** The correlation matrix identified the relationships between meteorological and fire-related attributes, helping to understand driving factors.
 *   **Combined Effects:**  Comparison of average area burned based on month and day combinations offers actionable insights for resource allocation and prevention strategies.
 
-## Limitations and Future Work
-
-*   **Dataset Limitations:** The dataset may lack additional relevant variables (e.g., vegetation type, human activity) that could affect forest fires.
-*   **Causation vs. Correlation:** EDA primarily identifies associations; further analysis is needed to determine causal relationships.
-*   **Geographic Scope:** Findings may not be generalizable to other regions with different environmental characteristics.
-*   **Future Actions:**
-    *   Further research into the drivers that are causal
-    *   Apply causal inference techniques to identify causal relationships between variables.
-    *   Integrate additional data sources
-    *   Make a model to try to forecast potential impacts.
-
 ## Repository Structure
 
 ```
