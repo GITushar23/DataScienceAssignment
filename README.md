@@ -77,7 +77,7 @@ pip install pandas numpy matplotlib seaborn
 1.  Clone this repository:
 
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/GITushar23/DataScienceAssignment.git
    cd forest-fire-analysis
    ```
 
@@ -87,7 +87,7 @@ pip install pandas numpy matplotlib seaborn
    pip install pandas numpy matplotlib seaborn
    ```
 
-3.  Open and execute `Forest_Fires_EDA.ipynb` in Jupyter Notebook or JupyterLab.
+3.  Open and execute `23321032.ipynb` in Jupyter Notebook or JupyterLab.
 
 ## Contributing
 
