@@ -8,8 +8,6 @@ This repository contains an exploratory data analysis (EDA) of a dataset related
 - [Data Source](#data-source)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Insights and Key Findings](#insights-and-key-findings)
-- [Limitations and Future Work](#limitations-and-future-work)
 - [Repository Structure](#repository-structure)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
@@ -40,13 +38,6 @@ The EDA included:
 *   **Univariate Analysis:**  Examining individual variables using histograms, frequency distributions, and descriptive statistics.
 *   **Bivariate Analysis:** Analyzing relationships between two variables at a time using correlation matrices, scatter plots, bar plots, and violin plots.
 *   **Multivariate Analysis:** Assessing the combined effects of several factors, such as the combined impact of month and day on the average burned area.
-
-## Insights and Key Findings
-
-*   **Temporal Patterns:** Visualizations showing fire occurrences by month and day of the week provide insights into seasonal and weekly risk patterns.
-*   **Spatial Distribution:** Analysis of the X and Y coordinates highlighted areas most prone to fire incidents.
-*   **Variable Correlations:** The correlation matrix identified the relationships between meteorological and fire-related attributes, helping to understand driving factors.
-*   **Combined Effects:**  Comparison of average area burned based on month and day combinations offers actionable insights for resource allocation and prevention strategies.
 
 ## Repository Structure
 
