@@ -62,10 +62,10 @@ The EDA included:
 ## Repository Structure
 
 ```
-forest-fire-analysis/
-├── forestfires.csv        # Raw dataset
-├── Forest_Fires_EDA.ipynb # Jupyter Notebook with code for data cleaning and EDA
-└── README.md             # This file
+└──forest-fire-analysis/
+   ├── forestfires.csv        # Raw dataset
+   ├── Forest_Fires_EDA.ipynb # Jupyter Notebook with code for data cleaning and EDA
+└── README.md             
 ```
 
 ## Dependencies
