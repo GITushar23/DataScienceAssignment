@@ -1,4 +1,3 @@
-```markdown
 # Forest Fire Data Analysis and Prediction
 
 This repository contains an exploratory data analysis (EDA) of a dataset related to forest fires, with the goal of understanding the key factors contributing to fire size and intensity. The project includes data cleaning, visualization, and preliminary modeling insights.
@@ -108,4 +107,4 @@ Contributions are welcome! If you find issues or have improvements, please submi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
