@@ -53,7 +53,7 @@ The EDA included:
 ```
 └──forest-fire-analysis/
    ├── forestfires.csv        # Raw dataset
-   ├── Forest_Fires_EDA.ipynb # Jupyter Notebook with code for data cleaning and EDA
+   ├── 23321032.ipynb # Jupyter Notebook with code for data cleaning and EDA
 └── README.md             
 ```
 
